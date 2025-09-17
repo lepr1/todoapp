@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtualenv
+venv/
+env/
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Общие
+.DS_Store
+*.log
